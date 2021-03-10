@@ -24,3 +24,16 @@ A Matrix represents a collection of numbers arranged in an order of rows and col
 ## Stack
 A stack is a linear data structure which follows a particular order in which the operations are performed with 2 main operations: Push, which adds an element to the collection. and : Pop, which removes the most recently added element that was not yet removed.
 
+## Heap
+A heap is a special tree-based data structure in which the tree is a complete binary tree. Genarally heap can be two types:
+ 1 - Max-heap: In an max heap the key present at the root node must be greatest among all keys present at all of its children.
+ 2 - Min-heap: In a min heap the key present at the root node must be minimum among all keys present at all of its children.
+
+## Queue
+A queue is a linear structure which follows a particular order in which the operations are performed. Its FIFO(first in first out). A good example of queue is any queue of consumers for a resource where the consumer that come first is served first.
+
+## Difference betwenn stack and queue  is in removing
+
+## Hashing
+Hashing is an important datastructure which is designed to use a special function called the hash function which is used to map a given value with a particular key for faster access of elements. The effiency of mapping depends of the effiency of the hash function used.
+
