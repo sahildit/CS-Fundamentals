@@ -35,5 +35,5 @@ A queue is a linear structure which follows a particular order in which the oper
 ## Difference betwenn stack and queue  is in removing
 
 ## Hashing
-Hashing is an important datastructure which is designed to use a special function called the hash function which is used to map a given value with a particular key for faster access of elements. The effiency of mapping depends of the effiency of the hash function used.
+Hashing is an important datastructure which is designed to use a special function called the hash function which is used to map a given value with a particular key for faster access of elements. The effiency of mapping depends of the effiency of the hash function used
 
