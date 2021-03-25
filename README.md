@@ -32,7 +32,7 @@ A heap is a special tree-based data structure in which the tree is a complete bi
 ## Queue
 A queue is a linear structure which follows a particular order in which the operations are performed. Its FIFO(first in first out). A good example of queue is any queue of consumers for a resource where the consumer that come first is served first.
 
-## Difference betwenn stack and queue  is in removing
+## Difference betwenn stack and queue  is removing of elements as both works on their own principles as discussed above ^^
 
 ## Hashing
 Hashing is an important datastructure which is designed to use a special function called the hash function which is used to map a given value with a particular key for faster access of elements. The effiency of mapping depends of the effiency of the hash function used
